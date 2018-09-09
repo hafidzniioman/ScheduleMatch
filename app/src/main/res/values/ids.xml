@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="team_badge" type="id" />
+    <item name="team_name" type="id" />
+    <item name="team_id" type="id"/>
+    <item name="file_name" type="id"/>
+    <item name="name_league" type="id"/>
+    <item name="home_team" type="id"/>
+    <item name="away_team" type="id"/>
+</resources>
